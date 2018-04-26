@@ -1,6 +1,6 @@
 # language: sv
 
-Egenskap: Searching for cucumbers
+Egenskap: Leta efter gurkor
   I egenskap av en internetanvändare
   Så vill jag kunna söka efter information om gurkor
   För att hitta information om gurkor
