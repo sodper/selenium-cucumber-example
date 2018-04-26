@@ -2,7 +2,7 @@
 
 ## Description
 
-This sample project show basic setup of CucumberJs running Gherkin syntax feature
+This sample project shows basic setup of CucumberJs running Gherkin syntax feature
 specifications and driving Chrome automation using WebDriverJs. It only contains
 one feature detailing a Google search.
 
